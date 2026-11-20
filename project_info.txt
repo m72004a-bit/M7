@@ -1,0 +1,4 @@
+Project: Airbnb NYC 2019
+Course: CDS 2413
+Purpose: Data Analysis and Machine Learning
+Dataset: Airbnb_NYC_2019.csv
